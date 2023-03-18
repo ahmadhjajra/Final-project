@@ -1,0 +1,53 @@
+exit
+head 3 dingo.txt
+head dingo.txt 3
+tail dingo.txt 2
+exit
+cat dingo.txt
+cat new.txt
+touch new.txt
+dingo.txt > new.txt
+cat new.txt
+cat file1.txt
+move file1.txt new.txt
+cat new.txt
+exit
+move file1.txt new.txt
+touch new.txt
+cat new.txt
+move file1.txt new.txt
+cat file1.txt
+cat file2.txt
+copy file2.txt new.txt
+cat new.txt
+exit
+cat new.txt
+copy file2.txt new.txt
+cat new.txt
+privacy new.txt
+chmod new.txt 1
+chmod 1 new.txt
+privacy new.txt
+exit
+cat dingo.txt
+remove dingo.txt
+cat dingo.txt
+cat new.txt
+touch new.txt
+cat file2.txt
+move file2.txt new.txt
+cat new.txt
+cat file2.txt
+privacy new.txt
+chmod 1 new.txt
+privacy new.txt
+locate file.txt
+exit
+fgrep
+fgrep
+exit
+fgrep
+fgrep
+fgrep
+fgrep
+exit
